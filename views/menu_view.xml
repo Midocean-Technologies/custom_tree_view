@@ -1,0 +1,8 @@
+<odoo>
+
+    <data>
+        <menuitem id="menu_tree_view_root"
+                  name='Custom Tree View'
+                  sequence="1"/>
+    </data>
+</odoo>
